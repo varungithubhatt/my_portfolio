@@ -12,6 +12,12 @@ objective: "Actively seeking internship opportunities to apply my skills, learn 
     linkedin: "https://www.linkedin.com/in/varun-bhatt-2327ba322/",
     twitter: "https://x.com/Varun102599134",
   },
+  stats: [
+    { label: "Projects", value: 6 },
+    { label: "DSA Problems", value: 500 },
+    { label: "Contest Rank", value: 313 },
+    { label: "Certifications", value: 1 },
+  ],
   aboutTimeline: [
     {
       title: "Started programming",
