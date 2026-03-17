@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name | Premium Developer Portfolio",
+  title: "Varun Bhatt | Premium Developer Portfolio",
   description:
     "Award-inspired developer portfolio with advanced animations and premium UX.",
 };
