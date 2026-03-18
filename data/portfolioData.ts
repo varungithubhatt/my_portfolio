@@ -6,7 +6,7 @@ export const portfolioData = {
 objective: "Actively seeking internship opportunities to apply my skills, learn from real-world experience, and grow as a developer.",
   location: "Remote",
   email: "varunofficial935@gmail.com",
-  resumeUrl: "https://drive.google.com/file/d/1mNtJRA7giK0j7bWrFTc8ZNUppRSC_EQV/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1_XlJFVyX-azSR-LOP0Pn2S19FiMEjMcv/view?usp=sharing",
   socials: {
     github: "https://github.com/varungithubhatt",
     linkedin: "https://www.linkedin.com/in/varun-bhatt-2327ba322/",
