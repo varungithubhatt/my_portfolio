@@ -6,13 +6,19 @@ export const skills = [
   "TailwindCSS",
   "NextJS",
   "TypeScript",
+   
   "NodeJS",
   "Express",
+  "AI Integration",
   "MongoDB",
   "PostgreSQL",
   "Prisma",
   "GitHub",
-  "Cloudinary",
-  "AI Integration",
-  "C++",
+  "c++",
+"Cloudinary",
+ 
+
+ 
+
+  
 ];
