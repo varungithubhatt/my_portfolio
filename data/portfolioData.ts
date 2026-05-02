@@ -3,10 +3,10 @@ export const portfolioData = {
   role: "Full Stack Web Developer | Machine Learning Enthusiast",
   bio: "Full Stack Developer with strong fundamentals in JavaScript and backend development. Built real-world projects including a Movie Reviewer app with authentication, REST APIs, and real-time features.",
 
-objective: "Actively seeking internship opportunities to apply my skills, learn from real-world experience, and grow as a developer.",
+objective: "Actively seeking job/internship opportunities to apply my skills, learn from real-world experience, and grow as a developer.",
   location: "Remote",
   email: "varunofficial935@gmail.com",
-  resumeUrl: "https://drive.google.com/file/d/1_XlJFVyX-azSR-LOP0Pn2S19FiMEjMcv/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/16FFowUTcnXNT7REaVhoB9W1p6MrxLmok/view?usp=sharing",
   socials: {
     github: "https://github.com/varungithubhatt",
     linkedin: "https://www.linkedin.com/in/varun-bhatt-2327ba322/",
@@ -102,6 +102,18 @@ objective: "Actively seeking internship opportunities to apply my skills, learn 
     },
   ],
   experience: [
+    {
+      title: "Full Stack Developer Intern",
+      org: "Avijo",
+      period: "February 2026 – Present",
+      image: "/projects/avijo.png",
+      imageLink: "https://www.linkedin.com/company/avijodotin/posts/?feedView=all",
+      highlights: [
+        "Developed user management module in admin panel using Node.js, Express, and MongoDB with full CRUD operations, and worked with CI/CD pipeline",
+        "Diagnosed and resolved backend issues (CORS errors, API failures, and network timeouts) while implementing Aadhaar OTP generation and verification via external APIs to ensure secure and reliable doctor onboarding",
+        "Increased viewership by 30% and registrations by 10% through improved user experience and onboarding",
+      ],
+    },
     {
       title: "500+ curated dsa problems",
       org: "Leetcode, GeeksforGeeks",
